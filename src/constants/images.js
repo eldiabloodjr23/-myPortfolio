@@ -14,7 +14,7 @@ import node from '../assets/node.png';
 import python from '../assets/python.png';
 import react from '../assets/react.png';
 import redux from '../assets/react.png';
-import sass from '../assets/sass.png';
+import sass from '../assets/js.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 
