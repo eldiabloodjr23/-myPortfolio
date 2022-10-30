@@ -16,9 +16,9 @@ const About = () => {
     });
   }, []);
 
-  return (
+  return ( 
     <>
-      <h2 className="head-text">I Know that <span>No Coding</span> <br />means  <span>No Life</span></h2>
+      <h2 className="head-text">First, solve the <span>Problem</span> <br /> Then, write   <span> the Code</span></h2>
 
       <div className="app__profiles">
         {abouts.map((about, index) => (
