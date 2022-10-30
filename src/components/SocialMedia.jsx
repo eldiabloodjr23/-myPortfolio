@@ -9,12 +9,7 @@ const SocialMedia = () => (
       <BsGithub />
       </a>
     </div>
-    <div>
-      <FaLinkedin />
-    </div>
-    <div>
-      <BsGoogle />
-    </div>
+   
   </div>
 );
 
